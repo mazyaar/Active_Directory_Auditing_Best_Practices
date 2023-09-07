@@ -170,19 +170,6 @@ _These tables contain the Windows default setting, the baseline recommendations,
 * Audit DPAPI Activity: Success, Failure
 ***
 
-
-## Documentation
-
-> [Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
-
-> [Active Directory Auditing Best Practices](https://community.spiceworks.com/topic/2322563-active-directory-auditing-best-practices)
-
-> [Audit Policies and Event Viewer](https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter2)
-
-> [Active Directory Auditing Best Practices](https://medium.com/@juan.pablo.orphanos/domain-controllers-audit-policy-best-practices-8906abc2b682)
-
-*** 
-
 ## FAQ
 
 #### How can I enable auditing of AD objects?
@@ -210,3 +197,27 @@ _Use the Windows Event Viewer to view captured events._
 > Click Add.
 > Select the properties you want to monitor.
 > Click OK to close each window until you are back to the main ADUC screen.
+
+***
+
+## Resource
+
+> [Audit Policy Recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
+
+> [Active Directory Auditing Best Practices](https://community.spiceworks.com/topic/2322563-active-directory-auditing-best-practices)
+
+> [Audit Policies and Event Viewer](https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter2)
+
+> [Active Directory Auditing Best Practices](https://medium.com/@juan.pablo.orphanos/domain-controllers-audit-policy-best-practices-8906abc2b682)
+***
+
+## Authors
+- [@mazyaar](https://www.github.com/mazyaar)
+
+## Feedback
+
+If you have any feedback, please reach out to us at info@cyberred.org
+
+
+
+
