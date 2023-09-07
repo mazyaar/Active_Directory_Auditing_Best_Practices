@@ -189,14 +189,21 @@ _Either wait for the policy to update automatically or run gpupdate on the DC yo
 _Use the Windows Event Viewer to view captured events._
 
 #### How do I configure auditing for specific AD objects?
-> Open Active Directory Users and Computers.
-> Navigate to the object you want to monitor and open it.
-> Go to the Security tab.
-> Click the Advanced button.
-> Go to the Auditing tab.
-> Click Add.
-> Select the properties you want to monitor.
-> Click OK to close each window until you are back to the main ADUC screen.
+> 1. Open Active Directory Users and Computers.
+
+> 2. Navigate to the object you want to monitor and open it.
+
+> 3. Go to the Security tab.
+
+> 4. Click the Advanced button.
+
+> 5. Go to the Auditing tab.
+
+> 6. Click Add.
+
+> 7. Select the properties you want to monitor.
+
+> 8. Click OK to close each window until you are back to the main ADUC screen.
 
 ***
 
