@@ -142,7 +142,7 @@ _These tables contain the Windows default setting, the baseline recommendations,
 * Audit Directory Service Changes: Success, Failure (optinal)
 ***
 
-##Object access
+## Object access
 
 * Audit Detailed File Share: Success, Failure (optinal)
 * Audit File Share: Success, Failure (optinal)
