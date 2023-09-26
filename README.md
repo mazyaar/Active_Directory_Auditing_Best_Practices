@@ -102,8 +102,8 @@ _These tables contain the Windows default setting, the baseline recommendations,
 * Audit Security State Change: Success, Failure
 * Audit Other System Events: Success, Failure
 * Audit System Integrity: Success, Failure
-** Audit Security System Extension: Success, Failure
-** Audit IPsec Driver: Success, Failure
+* Audit Security System Extension: Success, Failure
+* Audit IPsec Driver: Success, Failure
 ***
 **_Windows 10, Windows 8, and Windows 7 Audit Settings Recommendations:_**
 
