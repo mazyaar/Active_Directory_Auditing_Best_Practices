@@ -39,7 +39,8 @@ _These tables contain the Windows default setting, the baseline recommendations,
 * Audit Kerberos Authentication Service: Success, Failure
 * Audit Kerberos Service Ticket Operations: Failure
 * Audit Other Account Logon Events: Success, Failure
-**
+
+***
 
 ## Audit logon events
 
