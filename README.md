@@ -20,6 +20,9 @@ You’ll also need to specify the maximum size and other properties of the Secur
 _Recommended Audit Policies by Operating System
 This section contains tables that list the audit setting recommendations that apply to the following operating systems:_
 
+- Windows Server 2025
+- Windows Server 2022
+- Windows Server 2019
 - Windows Server 2016
 - Windows Server 2012
 - Windows Server 2012 R2
